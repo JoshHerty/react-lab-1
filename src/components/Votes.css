@@ -1,0 +1,20 @@
+.Votes .voting-bar {
+  margin: 0 10px;
+  height: 25px;
+  border-radius: 5px;
+}
+
+.Votes .chocolate-vote {
+  background-color: #4f2d2c;
+  width: 350px;
+}
+
+.Votes .vanilla-vote {
+  background-color: #cbbfad;
+  width: 350px;
+}
+
+.Votes .strawberry-vote {
+  background-color: #dd8d91;
+  width: 10px;
+}

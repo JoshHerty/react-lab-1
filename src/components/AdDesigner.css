@@ -1,0 +1,49 @@
+.AdDesigner {
+  margin: 45px;
+}
+
+.AdDesigner .ad-flavor {
+  font-family: "Caveat", cursive;
+  font-size: 65px;
+}
+
+.AdDesigner .ad {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: min-content;
+  width: min-content;
+  padding: 0px 20px;
+  border: 3px solid black;
+  box-shadow: 0 0 10px black;
+}
+
+.AdDesigner .dark-theme {
+  background-color: black;
+  border: 3px solid white;
+  color: white;
+}
+
+.AdDesigner p {
+  font-size: 25px;
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+.AdDesigner button {
+  background-color: #0e3c7c;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+  color: white;
+  border: none;
+  margin: 0 10px;
+}
+
+/* .AdDesigner .button-activated {
+  background-color: #808080;
+} */
+
+.AdDesigner .font-changer {
+  display: flex;
+}
